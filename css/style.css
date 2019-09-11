@@ -2,3 +2,12 @@ body {
     background-color: black;
     color: antiquewhite;
 }
+.img-preview {
+    width: 300px;
+  }
+  
+  .img-preview img {
+    width: 100%;
+    heigth: auto;
+  }
+  
