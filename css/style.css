@@ -3,10 +3,10 @@ body {
     color: antiquewhite;
 }
 .img-preview {
-    width: 300px;
+    width: 100%;
   }
   
-  .img-preview img {
+.img-preview img {
     width: 100%;
     heigth: auto;
-  }
+}

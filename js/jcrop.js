@@ -12,5 +12,5 @@ var loadImg = function(input) {
 }
 
 document.querySelector('#img').onchange = function() {
-  loadImg(this);
+  loadImg();
 }
